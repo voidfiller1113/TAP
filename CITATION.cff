@@ -4,9 +4,12 @@ message: "If you use this specification, please cite it using the metadata from 
 type: software
 version: 2.0.0
 doi: "[To be assigned]"
-date-released: 2025-01-14
+date-released: 2026-01-14
 license: CC-BY-4.0
-repository-code: "https://github.com/voidfiller1113/TheArchitectsProtocol"
+repository-code: "https://github.com/voidfiller1113/TAP"
+
+authors:
+  - name: void-filler
 
 abstract: >-
   TAP is a formal specification for bridging the structural void between 
@@ -34,6 +37,3 @@ keywords:
   - protocol-specification
   - human-ai-collaboration
   - automation
-
-authors:
-  - alias: "void-filler"
