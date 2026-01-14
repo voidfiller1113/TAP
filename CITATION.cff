@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "TAP: The Architect's Protocol"
+message: "If you use this specification, please cite it using the metadata from this file."
+type: software
+version: 2.0.0
+doi: "[To be assigned]"
+date-released: 2025-01-14
+license: CC-BY-4.0
+repository-code: "https://github.com/voidfiller1113/TheArchitectsProtocol"
+
+abstract: >-
+  TAP is a formal specification for bridging the structural void between 
+  Concept (L3) and Implementation (L1). It defines the Structure (L2) 
+  through which all intent must pass to become execution. Conformance 
+  requires Deterministic Actors; human-only implementations are Non-Compliant.
+
+keywords:
+  # Discoverability (external search terms)
+  - software-architecture
+  - formal-specification
+  - ai-agents
+  - llm-engineering
+  - ai-assisted-development
+  - deterministic-execution
+  
+  # Technical positioning
+  - layered-architecture
+  - separation-of-concerns
+  - design-patterns
+  - proxy-pattern
+  
+  # Core concepts
+  - formal-methods
+  - protocol-specification
+  - human-ai-collaboration
+  - automation
+
+authors:
+  - alias: "void-filler"
