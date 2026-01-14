@@ -1,5 +1,9 @@
 # TAP: The Architect's Protocol
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18243786-blue?style=flat-square)](https://doi.org/10.5281/zenodo.18243786)
+
+---
+
 ![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-green?style=flat-square)
 ![Status: Normative Standard](https://img.shields.io/badge/Status-Normative%20Standard-black?style=flat-square)
 ![Role: L2 Structure](https://img.shields.io/badge/Role-L2%20Structure-blue?style=flat-square)
